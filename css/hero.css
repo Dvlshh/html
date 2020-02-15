@@ -37,6 +37,10 @@ main{
 	padding: 20px;
 }
 
+h6{
+	font-family: sans-serif;
+}
+
 main img{
 	max-width: 100%;
 }
